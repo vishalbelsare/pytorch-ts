@@ -1,12 +1,9 @@
-# YAML 1.2
----
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using the following metadata."
 authors: 
   -
     family-names: Rasul
     given-names: Kashif
-cff-version: "1.1.0"
-identifiers: 
 license: MIT
-message: "If you use this software, please cite it using the following metadata."
 repository-code: "https://github.com/zalandoresearch/pytorch-ts"
 title: PyTorchTS
