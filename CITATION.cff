@@ -10,4 +10,3 @@ license: MIT
 message: "If you use this software, please cite it using the following metadata."
 repository-code: "https://github.com/zalandoresearch/pytorch-ts"
 title: PyTorchTS
-...
